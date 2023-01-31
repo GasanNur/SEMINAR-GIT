@@ -104,6 +104,8 @@ git branch <branchname>
 
 где\<branchname> - 'nj bvz yjdjq dtnrb 
 
+Домашнее задание 
+
 git branch
 git branch<newbranch>
 git merge <...>
