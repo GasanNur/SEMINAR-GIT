@@ -98,3 +98,20 @@ git status
   ## Новая Ветка на newbranch
   
 
+Чтобы добваить новую ветку нужно ввести команду :
+
+git branch <branchname>
+
+где\<branchname> - 'nj bvz yjdjq dtnrb 
+
+git branch
+git branch<newbranch>
+git merge <...>
+
+мердж конфликт
+
+git log --graph
+
+создать 4 новой ветки и 4 слияния 
+
+git branch -d <...> - удалить новые ветки. Если получится то сделать ветку на ветке и слить с мастером. 
