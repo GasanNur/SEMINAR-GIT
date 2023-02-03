@@ -129,4 +129,6 @@ git log --graph
 
 git branch -d <name of branch>
 
+# Предложение в инструкции 
 
+изминение в файле 
