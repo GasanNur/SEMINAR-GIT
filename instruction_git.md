@@ -125,4 +125,8 @@ git log --graph
 
 ## Удаленные репозитории 
 
+## Удаление ветки 
+
+git branch -d <name of branch>
+
 
